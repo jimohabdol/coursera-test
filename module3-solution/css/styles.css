@@ -21,6 +21,13 @@ body {
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
+#nav-list a {
+    color: #008000;
+    text-align: center;
+}
+#nav-list a:hover {
+  background: #E7E7E7
+}
 /* homepage */
 #main-content h1 {
   text-align: center;
